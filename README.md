@@ -1,5 +1,6 @@
 # 🚍 IoT Shuttle Bus Tracker
 
+
 A React Native mobile app built for VIT students to track shuttle buses in real-time using GPS and IoT devices. The app integrates with a Node.js backend and uses devices like the Neo-6M GPS module, Arduino Uno, and ESP32 to provide live tracking and capacity management.
 
 ---
